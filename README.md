@@ -1,3 +1,3 @@
-# errorsandvoila
+# Exploration of Insurance claims data
 
-Sicks and tricks
+Using some of the python AutoML and visualisation libraries to read and extract infromation from the dataset.
